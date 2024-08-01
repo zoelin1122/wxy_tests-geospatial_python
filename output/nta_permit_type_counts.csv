@@ -1,0 +1,880 @@
+nta2020,permit_type,permit_type_count
+BK0101,Alteration,22
+BK0101,Construction Equipment,4
+BK0101,Foundation,8
+BK0101,New Building,26
+BK0101,Plumbing,19
+BK0102,Alteration,30
+BK0102,Construction Equipment,15
+BK0102,Foundation,28
+BK0102,New Building,23
+BK0102,Plumbing,25
+BK0103,Alteration,4
+BK0103,Construction Equipment,6
+BK0103,New Building,7
+BK0103,Plumbing,2
+BK0104,Alteration,22
+BK0104,Construction Equipment,6
+BK0104,Foundation,16
+BK0104,New Building,31
+BK0104,Plumbing,17
+BK0201,Alteration,10
+BK0201,Foundation,4
+BK0202,Alteration,13
+BK0202,Construction Equipment,9
+BK0202,Foundation,16
+BK0202,New Building,19
+BK0202,Plumbing,10
+BK0203,Alteration,11
+BK0203,Construction Equipment,2
+BK0203,Foundation,2
+BK0203,New Building,7
+BK0203,Plumbing,12
+BK0204,Alteration,16
+BK0204,Construction Equipment,1
+BK0204,Foundation,1
+BK0204,New Building,7
+BK0204,Plumbing,12
+BK0301,Alteration,25
+BK0301,Construction Equipment,9
+BK0301,Equipment Work,1
+BK0301,Foundation,41
+BK0301,New Building,35
+BK0301,Plumbing,23
+BK0302,Alteration,27
+BK0302,Construction Equipment,2
+BK0302,Foundation,24
+BK0302,New Building,27
+BK0302,Plumbing,18
+BK0401,Alteration,12
+BK0401,Construction Equipment,4
+BK0401,Foundation,13
+BK0401,New Building,16
+BK0401,Plumbing,13
+BK0402,Alteration,13
+BK0402,Construction Equipment,6
+BK0402,Foundation,13
+BK0402,New Building,14
+BK0402,Plumbing,14
+BK0501,Alteration,2
+BK0501,Foundation,3
+BK0501,New Building,8
+BK0501,Plumbing,8
+BK0502,Alteration,5
+BK0502,Construction Equipment,2
+BK0502,Foundation,2
+BK0502,New Building,10
+BK0502,Plumbing,8
+BK0503,Alteration,8
+BK0503,Construction Equipment,3
+BK0503,New Building,8
+BK0503,Plumbing,7
+BK0504,Foundation,42
+BK0504,New Building,36
+BK0505,New Building,4
+BK0505,Plumbing,4
+BK0601,Alteration,39
+BK0601,Construction Equipment,7
+BK0601,Foundation,6
+BK0601,New Building,16
+BK0601,Plumbing,32
+BK0602,Alteration,14
+BK0602,Construction Equipment,2
+BK0602,Foundation,4
+BK0602,New Building,8
+BK0602,Plumbing,13
+BK0701,Alteration,4
+BK0701,Construction Equipment,1
+BK0701,Foundation,2
+BK0701,New Building,2
+BK0702,Alteration,19
+BK0702,Construction Equipment,10
+BK0702,Foundation,12
+BK0702,New Building,21
+BK0702,Plumbing,19
+BK0703,Alteration,9
+BK0703,Construction Equipment,2
+BK0703,New Building,7
+BK0703,Plumbing,9
+BK0801,Alteration,9
+BK0801,Construction Equipment,1
+BK0801,Foundation,4
+BK0801,New Building,2
+BK0801,Plumbing,10
+BK0802,Alteration,22
+BK0802,Construction Equipment,3
+BK0802,Foundation,2
+BK0802,New Building,14
+BK0802,Plumbing,18
+BK0901,Alteration,5
+BK0901,Construction Equipment,1
+BK0901,Foundation,2
+BK0901,New Building,3
+BK0901,Plumbing,3
+BK0902,Alteration,3
+BK0902,Foundation,3
+BK0902,New Building,8
+BK0902,Plumbing,2
+BK1001,Alteration,14
+BK1001,Construction Equipment,5
+BK1001,Foundation,2
+BK1001,New Building,7
+BK1001,Plumbing,10
+BK1002,Alteration,2
+BK1002,Construction Equipment,3
+BK1002,Foundation,1
+BK1002,New Building,9
+BK1002,Plumbing,6
+BK1101,Alteration,12
+BK1101,Construction Equipment,1
+BK1101,Foundation,5
+BK1101,New Building,8
+BK1101,Plumbing,5
+BK1102,Alteration,6
+BK1102,Construction Equipment,1
+BK1102,Foundation,2
+BK1102,New Building,7
+BK1102,Plumbing,2
+BK1103,Alteration,2
+BK1103,Construction Equipment,3
+BK1103,Foundation,2
+BK1103,New Building,5
+BK1103,Plumbing,7
+BK1201,Alteration,9
+BK1201,Construction Equipment,3
+BK1201,Foundation,2
+BK1201,New Building,8
+BK1201,Plumbing,8
+BK1202,Alteration,19
+BK1202,Construction Equipment,10
+BK1202,Foundation,3
+BK1202,New Building,31
+BK1202,Plumbing,20
+BK1203,Alteration,2
+BK1203,Construction Equipment,4
+BK1203,New Building,4
+BK1203,Plumbing,5
+BK1204,Alteration,13
+BK1204,Construction Equipment,5
+BK1204,Foundation,6
+BK1204,New Building,11
+BK1204,Plumbing,11
+BK1301,Alteration,1
+BK1301,Construction Equipment,1
+BK1301,Foundation,3
+BK1301,New Building,3
+BK1301,Plumbing,3
+BK1302,Alteration,11
+BK1302,Construction Equipment,9
+BK1302,Foundation,17
+BK1302,New Building,17
+BK1302,Plumbing,20
+BK1303,Alteration,4
+BK1303,Construction Equipment,2
+BK1303,Foundation,5
+BK1303,New Building,4
+BK1303,Plumbing,1
+BK1391,New Building,1
+BK1401,Alteration,6
+BK1401,Construction Equipment,3
+BK1401,Foundation,3
+BK1401,New Building,8
+BK1401,Plumbing,5
+BK1402,Alteration,5
+BK1402,Foundation,2
+BK1402,New Building,4
+BK1402,Plumbing,2
+BK1403,Alteration,13
+BK1403,Construction Equipment,2
+BK1403,Foundation,2
+BK1403,New Building,2
+BK1403,Plumbing,9
+BK1501,Alteration,28
+BK1501,Construction Equipment,8
+BK1501,Foundation,5
+BK1501,New Building,10
+BK1501,Plumbing,18
+BK1502,Alteration,5
+BK1502,Construction Equipment,4
+BK1502,Foundation,1
+BK1502,New Building,3
+BK1502,Plumbing,1
+BK1503,Alteration,15
+BK1503,Construction Equipment,5
+BK1503,Foundation,6
+BK1503,New Building,8
+BK1503,Plumbing,12
+BK1601,Alteration,4
+BK1601,Construction Equipment,1
+BK1601,Foundation,8
+BK1601,New Building,19
+BK1601,Plumbing,6
+BK1602,Alteration,7
+BK1602,Construction Equipment,4
+BK1602,Foundation,12
+BK1602,New Building,22
+BK1602,Plumbing,4
+BK1701,Alteration,6
+BK1701,Construction Equipment,5
+BK1701,Foundation,6
+BK1701,New Building,11
+BK1701,Plumbing,8
+BK1702,Alteration,2
+BK1702,Foundation,6
+BK1702,New Building,11
+BK1703,Alteration,4
+BK1703,Construction Equipment,1
+BK1703,New Building,1
+BK1703,Plumbing,1
+BK1704,Alteration,2
+BK1704,New Building,2
+BK1704,Plumbing,2
+BK1801,Alteration,6
+BK1801,Foundation,4
+BK1801,New Building,2
+BK1801,Plumbing,2
+BK1802,Alteration,14
+BK1802,Construction Equipment,4
+BK1802,New Building,6
+BK1802,Plumbing,13
+BK1803,Alteration,7
+BK1803,Construction Equipment,3
+BK1803,Foundation,2
+BK1803,New Building,2
+BK1803,Plumbing,3
+BK1892,Alteration,1
+BK1893,New Building,3
+BK1893,Plumbing,1
+BX0101,Alteration,8
+BX0101,Foundation,13
+BX0101,New Building,5
+BX0101,Plumbing,5
+BX0102,Alteration,2
+BX0102,Construction Equipment,1
+BX0102,Foundation,9
+BX0102,New Building,13
+BX0102,Plumbing,4
+BX0201,Alteration,3
+BX0201,Foundation,16
+BX0201,New Building,7
+BX0201,Plumbing,2
+BX0202,Alteration,12
+BX0202,Foundation,2
+BX0202,New Building,6
+BX0202,Plumbing,6
+BX0301,Alteration,5
+BX0301,Foundation,6
+BX0301,New Building,9
+BX0302,Alteration,1
+BX0302,Construction Equipment,1
+BX0302,New Building,1
+BX0302,Plumbing,1
+BX0303,Alteration,1
+BX0303,Construction Equipment,2
+BX0303,Foundation,4
+BX0303,New Building,7
+BX0303,Plumbing,4
+BX0401,Alteration,4
+BX0401,Construction Equipment,2
+BX0401,Foundation,10
+BX0401,New Building,8
+BX0401,Plumbing,5
+BX0402,Alteration,2
+BX0402,Foundation,2
+BX0402,New Building,3
+BX0402,Plumbing,2
+BX0403,Alteration,2
+BX0403,Foundation,4
+BX0403,New Building,4
+BX0403,Plumbing,5
+BX0501,Alteration,2
+BX0501,Foundation,2
+BX0501,New Building,6
+BX0501,Plumbing,6
+BX0502,Alteration,3
+BX0502,Foundation,7
+BX0502,New Building,11
+BX0502,Plumbing,6
+BX0503,Alteration,1
+BX0503,Foundation,1
+BX0503,New Building,3
+BX0503,Plumbing,2
+BX0601,Alteration,2
+BX0601,Foundation,2
+BX0601,New Building,4
+BX0602,Alteration,10
+BX0602,Construction Equipment,1
+BX0602,Foundation,7
+BX0602,New Building,7
+BX0602,Plumbing,5
+BX0603,Alteration,5
+BX0603,Construction Equipment,2
+BX0603,Foundation,3
+BX0603,New Building,14
+BX0603,Plumbing,7
+BX0701,Alteration,6
+BX0701,Construction Equipment,1
+BX0701,New Building,4
+BX0701,Plumbing,3
+BX0702,Alteration,1
+BX0702,Construction Equipment,1
+BX0702,Foundation,11
+BX0702,New Building,24
+BX0702,Plumbing,5
+BX0703,Alteration,3
+BX0703,Foundation,4
+BX0703,New Building,5
+BX0801,Alteration,1
+BX0801,Construction Equipment,3
+BX0801,Foundation,4
+BX0801,New Building,7
+BX0801,Plumbing,2
+BX0802,Alteration,2
+BX0802,Construction Equipment,2
+BX0802,New Building,2
+BX0802,Plumbing,2
+BX0803,Alteration,12
+BX0803,Construction Equipment,3
+BX0803,Foundation,3
+BX0803,New Building,5
+BX0803,Plumbing,9
+BX0901,Alteration,6
+BX0901,Construction Equipment,1
+BX0901,Equipment Work,1
+BX0901,Foundation,2
+BX0901,New Building,4
+BX0901,Plumbing,5
+BX0902,Alteration,1
+BX0902,Construction Equipment,1
+BX0902,Foundation,22
+BX0902,New Building,12
+BX0903,Alteration,2
+BX0903,Foundation,1
+BX0903,New Building,6
+BX0903,Plumbing,9
+BX0904,Construction Equipment,2
+BX0904,Foundation,2
+BX0904,New Building,4
+BX0904,Plumbing,1
+BX1001,Alteration,2
+BX1001,Foundation,2
+BX1001,New Building,1
+BX1002,Alteration,9
+BX1002,Construction Equipment,1
+BX1002,Foundation,4
+BX1002,New Building,5
+BX1002,Plumbing,5
+BX1003,Alteration,4
+BX1003,Construction Equipment,4
+BX1003,New Building,2
+BX1003,Plumbing,6
+BX1004,Foundation,2
+BX1004,New Building,1
+BX1101,Alteration,2
+BX1101,Foundation,7
+BX1101,New Building,6
+BX1101,Plumbing,2
+BX1102,Alteration,3
+BX1102,Foundation,3
+BX1102,New Building,3
+BX1102,Plumbing,5
+BX1103,Alteration,2
+BX1103,Construction Equipment,2
+BX1103,Foundation,4
+BX1103,New Building,3
+BX1103,Plumbing,3
+BX1104,Alteration,4
+BX1104,Foundation,6
+BX1104,New Building,12
+BX1104,Plumbing,6
+BX1161,New Building,3
+BX1201,Alteration,8
+BX1201,Construction Equipment,4
+BX1201,Foundation,5
+BX1201,New Building,21
+BX1201,Plumbing,12
+BX1202,Alteration,5
+BX1202,Construction Equipment,1
+BX1202,New Building,2
+BX1202,Plumbing,7
+BX1203,Alteration,5
+BX1203,Construction Equipment,2
+BX1203,Foundation,8
+BX1203,New Building,9
+BX1203,Plumbing,12
+BX2691,Alteration,1
+BX2691,Construction Equipment,1
+BX2691,Foundation,2
+BX2691,New Building,1
+BX2691,Plumbing,1
+BX2791,Foundation,3
+BX2791,New Building,1
+MN0101,Alteration,11
+MN0101,Construction Equipment,2
+MN0101,Foundation,10
+MN0101,New Building,5
+MN0101,Plumbing,4
+MN0102,Alteration,35
+MN0102,Construction Equipment,1
+MN0102,Foundation,2
+MN0102,New Building,1
+MN0102,Plumbing,12
+MN0191,Alteration,1
+MN0201,Alteration,48
+MN0201,Construction Equipment,1
+MN0201,Equipment Work,1
+MN0201,Foundation,5
+MN0201,New Building,6
+MN0201,Plumbing,15
+MN0202,Alteration,16
+MN0202,Foundation,5
+MN0202,New Building,3
+MN0202,Plumbing,3
+MN0203,Alteration,24
+MN0203,Construction Equipment,1
+MN0203,Foundation,8
+MN0203,New Building,3
+MN0203,Plumbing,7
+MN0301,Alteration,8
+MN0301,Construction Equipment,1
+MN0301,New Building,3
+MN0301,Plumbing,5
+MN0302,Alteration,38
+MN0302,Construction Equipment,2
+MN0302,Foundation,4
+MN0302,New Building,9
+MN0302,Plumbing,9
+MN0303,Alteration,6
+MN0303,Construction Equipment,3
+MN0303,Foundation,7
+MN0303,New Building,12
+MN0303,Plumbing,9
+MN0401,Alteration,38
+MN0401,Construction Equipment,4
+MN0401,Foundation,4
+MN0401,New Building,12
+MN0401,Plumbing,15
+MN0402,Alteration,13
+MN0402,New Building,5
+MN0402,Plumbing,10
+MN0501,Alteration,26
+MN0501,Construction Equipment,3
+MN0501,Foundation,6
+MN0501,New Building,13
+MN0501,Plumbing,14
+MN0502,Alteration,21
+MN0502,Construction Equipment,3
+MN0502,Foundation,18
+MN0502,New Building,16
+MN0502,Plumbing,9
+MN0601,Alteration,1
+MN0602,Alteration,6
+MN0602,New Building,1
+MN0602,Plumbing,4
+MN0603,Alteration,2
+MN0603,Construction Equipment,1
+MN0603,Foundation,2
+MN0603,New Building,3
+MN0603,Plumbing,5
+MN0604,Alteration,5
+MN0604,Construction Equipment,1
+MN0604,New Building,2
+MN0604,Plumbing,2
+MN0701,Alteration,5
+MN0701,Construction Equipment,2
+MN0701,New Building,3
+MN0701,Plumbing,3
+MN0702,Alteration,28
+MN0702,Construction Equipment,4
+MN0702,Foundation,1
+MN0702,New Building,2
+MN0702,Plumbing,10
+MN0703,Alteration,3
+MN0703,New Building,1
+MN0703,Plumbing,1
+MN0801,Alteration,10
+MN0801,Construction Equipment,1
+MN0801,Equipment Work,1
+MN0801,Foundation,5
+MN0801,New Building,4
+MN0801,Plumbing,8
+MN0802,Alteration,37
+MN0802,Construction Equipment,3
+MN0802,Foundation,4
+MN0802,New Building,4
+MN0802,Plumbing,20
+MN0803,Alteration,4
+MN0803,Foundation,2
+MN0803,New Building,2
+MN0803,Plumbing,3
+MN0901,Alteration,2
+MN0901,Foundation,4
+MN0901,New Building,4
+MN0901,Plumbing,4
+MN0902,Construction Equipment,2
+MN0902,Foundation,4
+MN0902,New Building,1
+MN0903,Alteration,11
+MN0903,Construction Equipment,1
+MN0903,Foundation,4
+MN0903,New Building,3
+MN0903,Plumbing,2
+MN1001,Alteration,16
+MN1001,Construction Equipment,4
+MN1001,Foundation,4
+MN1001,New Building,8
+MN1001,Plumbing,7
+MN1002,Alteration,16
+MN1002,Construction Equipment,1
+MN1002,Foundation,4
+MN1002,New Building,10
+MN1002,Plumbing,9
+MN1101,Alteration,2
+MN1101,Foundation,4
+MN1101,New Building,5
+MN1101,Plumbing,7
+MN1102,Alteration,6
+MN1102,Construction Equipment,3
+MN1102,Foundation,14
+MN1102,New Building,3
+MN1102,Plumbing,8
+MN1201,Alteration,7
+MN1201,Construction Equipment,1
+MN1201,New Building,1
+MN1201,Plumbing,3
+MN1202,Alteration,2
+MN1202,Construction Equipment,2
+MN1202,Foundation,7
+MN1202,New Building,6
+MN1202,Plumbing,1
+MN1203,Alteration,2
+MN1203,Foundation,1
+MN1203,New Building,8
+MN1203,Plumbing,4
+MN1292,New Building,1
+QN0101,Alteration,11
+QN0101,Foundation,2
+QN0101,New Building,6
+QN0101,Plumbing,6
+QN0102,Alteration,4
+QN0102,Construction Equipment,4
+QN0102,Foundation,10
+QN0102,New Building,15
+QN0102,Plumbing,7
+QN0103,Alteration,12
+QN0103,Construction Equipment,7
+QN0103,Foundation,8
+QN0103,New Building,9
+QN0103,Plumbing,9
+QN0104,Alteration,11
+QN0104,Construction Equipment,2
+QN0104,Foundation,2
+QN0104,New Building,3
+QN0104,Plumbing,4
+QN0105,Alteration,3
+QN0105,Construction Equipment,8
+QN0105,Foundation,6
+QN0105,New Building,17
+QN0105,Plumbing,7
+QN0161,Alteration,1
+QN0161,Construction Equipment,1
+QN0161,Foundation,5
+QN0161,New Building,4
+QN0161,Plumbing,1
+QN0171,Alteration,2
+QN0171,Foundation,3
+QN0171,Plumbing,1
+QN0201,Alteration,6
+QN0201,Construction Equipment,2
+QN0201,Foundation,2
+QN0201,New Building,19
+QN0201,Plumbing,8
+QN0202,Alteration,3
+QN0202,Construction Equipment,2
+QN0202,Foundation,4
+QN0202,New Building,6
+QN0202,Plumbing,4
+QN0203,Alteration,8
+QN0203,Construction Equipment,1
+QN0203,Foundation,6
+QN0203,New Building,9
+QN0203,Plumbing,7
+QN0261,New Building,1
+QN0301,Alteration,6
+QN0301,Plumbing,2
+QN0302,Alteration,5
+QN0302,Construction Equipment,2
+QN0302,Foundation,1
+QN0302,New Building,4
+QN0302,Plumbing,6
+QN0303,Alteration,2
+QN0303,Construction Equipment,1
+QN0303,Foundation,2
+QN0303,New Building,3
+QN0303,Plumbing,4
+QN0401,Alteration,6
+QN0401,Construction Equipment,16
+QN0401,Foundation,10
+QN0401,New Building,17
+QN0401,Plumbing,14
+QN0402,Alteration,3
+QN0402,Construction Equipment,1
+QN0402,New Building,9
+QN0402,Plumbing,8
+QN0501,Alteration,6
+QN0501,Construction Equipment,2
+QN0501,Foundation,4
+QN0501,New Building,7
+QN0501,Plumbing,9
+QN0502,Alteration,11
+QN0502,New Building,2
+QN0502,Plumbing,6
+QN0503,Alteration,4
+QN0503,Foundation,1
+QN0503,Plumbing,1
+QN0504,Alteration,7
+QN0504,Foundation,2
+QN0504,New Building,4
+QN0504,Plumbing,8
+QN0601,Alteration,7
+QN0601,Foundation,6
+QN0601,New Building,5
+QN0601,Plumbing,7
+QN0602,Alteration,6
+QN0602,Construction Equipment,4
+QN0602,Foundation,2
+QN0602,New Building,5
+QN0602,Plumbing,9
+QN0701,Alteration,7
+QN0701,Construction Equipment,4
+QN0701,Foundation,8
+QN0701,New Building,13
+QN0701,Plumbing,8
+QN0702,Alteration,11
+QN0702,Construction Equipment,1
+QN0702,New Building,3
+QN0702,Plumbing,12
+QN0703,Alteration,4
+QN0703,Foundation,1
+QN0703,New Building,2
+QN0703,Plumbing,3
+QN0704,Alteration,2
+QN0704,Construction Equipment,1
+QN0704,Foundation,6
+QN0704,New Building,13
+QN0704,Plumbing,10
+QN0705,Alteration,2
+QN0705,Construction Equipment,1
+QN0705,New Building,5
+QN0705,Plumbing,3
+QN0706,Alteration,2
+QN0706,Foundation,2
+QN0706,New Building,1
+QN0706,Plumbing,1
+QN0707,Alteration,10
+QN0707,Construction Equipment,11
+QN0707,Foundation,4
+QN0707,New Building,24
+QN0707,Plumbing,14
+QN0801,Alteration,5
+QN0801,Construction Equipment,2
+QN0801,New Building,3
+QN0801,Plumbing,4
+QN0802,Alteration,1
+QN0802,Foundation,2
+QN0802,New Building,2
+QN0802,Plumbing,2
+QN0803,Alteration,5
+QN0803,Construction Equipment,1
+QN0803,Foundation,4
+QN0803,New Building,1
+QN0803,Plumbing,6
+QN0804,Alteration,14
+QN0804,Construction Equipment,3
+QN0804,Foundation,11
+QN0804,New Building,9
+QN0804,Plumbing,6
+QN0805,Alteration,4
+QN0805,Construction Equipment,1
+QN0805,Foundation,2
+QN0805,New Building,3
+QN0805,Plumbing,6
+QN0901,Alteration,3
+QN0901,Construction Equipment,2
+QN0901,New Building,2
+QN0901,Plumbing,4
+QN0902,Alteration,3
+QN0902,Construction Equipment,3
+QN0902,New Building,6
+QN0902,Plumbing,4
+QN0903,Alteration,3
+QN0903,Construction Equipment,1
+QN0903,Foundation,2
+QN0903,New Building,3
+QN0903,Plumbing,5
+QN0904,Alteration,2
+QN0904,Construction Equipment,3
+QN0904,New Building,2
+QN0904,Plumbing,2
+QN0905,Alteration,2
+QN0905,Construction Equipment,1
+QN0905,New Building,6
+QN0905,Plumbing,2
+QN1001,Alteration,10
+QN1001,Foundation,5
+QN1001,New Building,6
+QN1001,Plumbing,12
+QN1002,New Building,1
+QN1002,Plumbing,2
+QN1003,Alteration,4
+QN1003,New Building,2
+QN1003,Plumbing,2
+QN1101,Alteration,3
+QN1101,Construction Equipment,4
+QN1101,New Building,10
+QN1101,Plumbing,14
+QN1102,Alteration,8
+QN1102,Construction Equipment,2
+QN1102,Foundation,4
+QN1102,New Building,11
+QN1102,Plumbing,7
+QN1103,Alteration,8
+QN1103,Construction Equipment,6
+QN1103,Foundation,6
+QN1103,New Building,10
+QN1103,Plumbing,4
+QN1104,Alteration,4
+QN1104,Foundation,1
+QN1104,New Building,6
+QN1104,Plumbing,3
+QN1201,Alteration,9
+QN1201,Construction Equipment,13
+QN1201,Foundation,4
+QN1201,New Building,23
+QN1201,Plumbing,21
+QN1202,Alteration,1
+QN1202,Foundation,1
+QN1202,New Building,8
+QN1202,Plumbing,6
+QN1203,Alteration,8
+QN1203,Foundation,3
+QN1203,New Building,4
+QN1203,Plumbing,11
+QN1204,Alteration,3
+QN1204,Construction Equipment,1
+QN1204,New Building,1
+QN1204,Plumbing,1
+QN1205,Alteration,4
+QN1205,Foundation,5
+QN1205,New Building,3
+QN1205,Plumbing,7
+QN1206,Alteration,3
+QN1206,Construction Equipment,1
+QN1206,Foundation,6
+QN1206,New Building,6
+QN1206,Plumbing,3
+QN1301,Alteration,5
+QN1301,New Building,4
+QN1301,Plumbing,6
+QN1302,Alteration,5
+QN1302,Construction Equipment,1
+QN1302,Foundation,2
+QN1302,New Building,1
+QN1302,Plumbing,6
+QN1303,Alteration,1
+QN1303,Foundation,6
+QN1303,New Building,5
+QN1303,Plumbing,8
+QN1304,Alteration,1
+QN1304,Foundation,2
+QN1304,New Building,2
+QN1304,Plumbing,1
+QN1305,Alteration,3
+QN1305,Construction Equipment,1
+QN1305,New Building,1
+QN1305,Plumbing,2
+QN1306,Alteration,2
+QN1306,Construction Equipment,1
+QN1307,Alteration,1
+QN1307,Construction Equipment,1
+QN1307,Foundation,2
+QN1307,New Building,5
+QN1307,Plumbing,5
+QN1401,Alteration,4
+QN1401,Construction Equipment,5
+QN1401,Foundation,14
+QN1401,New Building,35
+QN1401,Plumbing,31
+QN1402,Alteration,8
+QN1402,Construction Equipment,2
+QN1402,Foundation,8
+QN1402,New Building,9
+QN1402,Plumbing,6
+QN1403,Alteration,7
+QN1403,Construction Equipment,1
+QN1403,New Building,4
+QN1403,Plumbing,11
+QN8191,Alteration,1
+SI0101,Alteration,4
+SI0101,Construction Equipment,6
+SI0101,Foundation,1
+SI0101,New Building,6
+SI0101,Plumbing,5
+SI0102,Alteration,7
+SI0102,Construction Equipment,1
+SI0102,New Building,4
+SI0103,Alteration,3
+SI0103,Construction Equipment,2
+SI0103,Foundation,2
+SI0103,New Building,14
+SI0103,Plumbing,3
+SI0104,Alteration,6
+SI0104,Construction Equipment,5
+SI0104,New Building,25
+SI0104,Plumbing,13
+SI0105,Alteration,5
+SI0105,Construction Equipment,3
+SI0105,Plumbing,2
+SI0106,Alteration,7
+SI0106,Foundation,2
+SI0106,New Building,8
+SI0106,Plumbing,3
+SI0107,Alteration,2
+SI0107,Construction Equipment,5
+SI0107,New Building,6
+SI0107,Plumbing,7
+SI0201,Alteration,4
+SI0201,Construction Equipment,2
+SI0201,New Building,18
+SI0201,Plumbing,19
+SI0202,Alteration,13
+SI0202,Construction Equipment,2
+SI0202,Foundation,2
+SI0202,New Building,9
+SI0202,Plumbing,7
+SI0203,Alteration,3
+SI0203,New Building,6
+SI0203,Plumbing,7
+SI0204,Alteration,2
+SI0204,New Building,8
+SI0204,Plumbing,8
+SI0301,Alteration,1
+SI0301,Construction Equipment,1
+SI0301,New Building,6
+SI0301,Plumbing,4
+SI0302,Alteration,3
+SI0302,New Building,2
+SI0302,Plumbing,6
+SI0303,Alteration,1
+SI0303,Construction Equipment,2
+SI0303,Plumbing,1
+SI0304,Alteration,5
+SI0304,Construction Equipment,7
+SI0304,New Building,36
+SI0304,Plumbing,11
+SI0305,Alteration,4
+SI0305,Construction Equipment,7
+SI0305,New Building,18
+SI0305,Plumbing,10
+SI0391,Foundation,2
+SI0391,New Building,2
