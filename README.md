@@ -1,3 +1,11 @@
+# Zoe's Notes:
+Output folder contains the excel and shapefile of the processed data. Small summary tables were generated through out, so the ones labeled FINAL_* are the files that contains all that was used to generate the final visual assets.
+
+Export folder contains the vector visual assets.
+
+Included an environment.yml and requirement.txt just incase.
+
+-----------
 # wxy_tests
 
 To take a test, please clone the relevant branch and send us back a link to a repo with a completed notebook!
