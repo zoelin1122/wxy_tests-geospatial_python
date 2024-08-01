@@ -1,7 +1,9 @@
 # Zoe's Notes:
 Output folder contains the excel and shapefile of the processed data. Small summary tables were generated through out, so the ones labeled FINAL_* are the files that contains all that was used to generate the final visual assets.
 
-Export folder contains the vector visual assets.
+Export folder contains the vector visual assets of the final charts and graphs.
+
+Interpretation of the charts and graphs are written in the notebook.
 
 Included an environment.yml and requirement.txt just incase.
 
